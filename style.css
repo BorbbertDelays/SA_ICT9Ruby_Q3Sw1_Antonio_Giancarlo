@@ -1,0 +1,26 @@
+#qrc {
+    width: 200px;
+    height: 200px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.login-page {
+    width: 100%;
+    height: 100vh;
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    background-image: url('login11.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+    overflow: hidden;
+}
+
+.form-right i {
+    font-size: 100px;
+}
